@@ -1,7 +1,7 @@
 ## Pokemon API Project
 
 - Pulls from the PokeAPI
-- Displays Name, Id, Image, Attacks and Type
+- Displays: Name, Id, Image, Attacks and Type
 - Stores the information in a local database
 
 ![Mewoth Results](pictures/results.png)
