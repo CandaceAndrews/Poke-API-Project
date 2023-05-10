@@ -4,7 +4,7 @@
 - Displays Name, Id, Image, Attacks and Type
 - Stores the information in a local database
 
-![Mewoth Results](pictures/Meowth_results.png)
+![Mewoth Results](pictures/results.png)
 
 ![Meowth Image](pictures/Meowth.png)
 
