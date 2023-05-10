@@ -6,6 +6,6 @@
 
 ![Mewoth Results](pictures/Meowth_results.png)
 
-![Meowth Image](pictures/Meowth_results.png)
+![Meowth Image](pictures/Meowth.png)
 
 ![Local Database](pictures/database.png)
